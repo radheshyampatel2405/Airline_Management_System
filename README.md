@@ -1,4 +1,4 @@
-# Airline_Management_System
+# Airline Management System
 It is used to store records about the passenger and flight details. 
 It performs the following operations:-
 1. Reservation
