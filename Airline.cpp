@@ -463,10 +463,7 @@ int main()
 {
     cout<<endl<<"\n\t\t     WELCOME TO AIRWAYS RESERVATION SYSTEM";
     cout<<"\n\n\n\t\t          Developed by :";
-    cout<<" HARSHAD PATOLIYA(18DCE096) ";
-    cout<<"\n\n\t\t                         MUSKAAN PIRANI(18DCE097)";
-    cout<<"\n\n\t\t                         DHVANI PONKIA(18DCE098)";
-    cout<<"\n\n\t\t                         SAUMYA RAVAL(18DCE103)";
+    cout<<" RADHESHYAM PATEL ";
 
     main1 m1;
     m1.getdata();
